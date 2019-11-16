@@ -16,15 +16,9 @@ cd ui-clone-instagram-feed
 
 You're going to need:
 
-**Node.js, version 10 or newer**
-
-**NPM Live-server**
-
-**Yarn**
+Yarn
 
 ### Installing
-
-Npm way
 
 ```
 npm install
